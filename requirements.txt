@@ -1,0 +1,22 @@
+# YouTube downloading
+yt-dlp
+
+# Audio processing
+librosa
+soundfile
+numpy
+
+# Music notation and MIDI
+music21
+pretty_midi
+
+# Audio analysis and transcription
+scipy
+matplotlib
+
+# CLI and utilities
+click
+tqdm
+
+# Optional: For better audio format support
+pydub
