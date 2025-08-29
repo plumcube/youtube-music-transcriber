@@ -12,7 +12,7 @@ This application converts YouTube music videos into sheet music notation using a
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.9+
 - FFmpeg (for audio processing)
 - Virtual environment (recommended)
 
